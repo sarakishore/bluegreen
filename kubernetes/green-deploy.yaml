@@ -15,4 +15,4 @@ spec:
           image: sample:1.11
           ports:
             - name: http
-              containerPort: 80
+              containerPort: 7667

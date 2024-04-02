@@ -10,6 +10,6 @@ spec:
       port: 7667
       targetPort: 7667
   selector: 
-    name: nginx
+    name: sample
     version: "1.10"
   type: LoadBalancer
